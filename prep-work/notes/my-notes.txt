@@ -1,0 +1,3 @@
+mkdir school-stuff
+A home directory is where all of the directories are held within a computer or system.
+ls -alF
